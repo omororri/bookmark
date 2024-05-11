@@ -1,4 +1,4 @@
-this bookmark repository is maintained and formatted for mobile use.<br>
+this bookmark repository is maintained and formatted for mobile use.<br><br>
 [ google forks ]
 + [docs.google.com](http://docs.google.com)
 + [earth.google.com](http://earth.google.com/web)
