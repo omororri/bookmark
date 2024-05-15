@@ -1,8 +1,4 @@
-<style>
-@font-face {
-  font-family: "nimbus mono ps";
-}
-</style>
+
 [ google forks ]
 
 [ [docs.google.com](http://docs.google.com) |
