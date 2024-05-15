@@ -1,5 +1,3 @@
-the bookmark repository is maintained and formatted for desktop use. no effort will be made to conform to mobile viewing standards. use a laptop and tether to your cell phone, poor.
-
 [ google forks ]
 
 [ [docs.google.com](http://docs.google.com) |
@@ -15,5 +13,6 @@ the bookmark repository is maintained and formatted for desktop use. no effort w
 
 [ utilities ]
 
-[ [protonmail.com](http://www.protonmail.com) |
+[ [archive.org](http://www.archive.org) |
+[protonmail.com](http://www.protonmail.com) |
 [reddit.com](http://www.reddit.com) ]
