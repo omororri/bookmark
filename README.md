@@ -10,8 +10,10 @@ the bookmark repository is maintained and formatted for desktop use. no effort w
 [youtube.com](http://www.youtube.com) ]
 
 [ true crime ]
-+ [websleuths.com](http://www.websleuths.com)
+
+[ [websleuths.com](http://www.websleuths.com) ]
 
 [ utilities ]
-+ [protonmail.com](http://www.protonmail.com)
-+ [reddit.com](http://www.reddit.com)
+
+[ [protonmail.com](http://www.protonmail.com) |
+[reddit.com](http://www.reddit.com) ]
