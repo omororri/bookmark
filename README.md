@@ -13,3 +13,4 @@ this bookmark repository is maintained and formatted for mobile use.
 
 [ utilities ]
 + [protonmail.com](http://www.protonmail.com)
++ [reddit.com](http://www.reddit.com)
