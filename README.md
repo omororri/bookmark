@@ -1,3 +1,4 @@
+<font face="courier new">
 [ google forks ]
 
 [ [docs.google.com](http://docs.google.com) |
@@ -16,3 +17,4 @@
 [ [archive.org](http://www.archive.org) |
 [protonmail.com](http://www.protonmail.com) |
 [reddit.com](http://www.reddit.com) ]
+</font>
