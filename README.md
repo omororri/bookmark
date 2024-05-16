@@ -12,6 +12,11 @@
 [ [sdot cameras](https://web.seattle.gov/Travelers/) |
 [sfd real-time](https://sfdlive.com/) ]
 
+[ shtf ]
+
+[ [bushcraftusa.com](http://www.bushcraftusa.com) |
+[survivalistboards.com](http://www.survivalistboards.com) ]
+
 [ true crime ]
 
 [ [websleuths.com](http://www.websleuths.com) ]
