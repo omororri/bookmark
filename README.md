@@ -7,6 +7,11 @@
 [voice.google.com](http://voice.google.com) |
 [youtube.com](http://www.youtube.com) ]
 
+[ seattle, washington ]
+
+[ [sdot cameras](https://web.seattle.gov/Travelers/) |
+[sfd real-time](https://web.seattle.gov/sfd/realtime911/getRecsForDatePub.asp?action=Today&incDate=&rad1=des) ]
+
 [ true crime ]
 
 [ [websleuths.com](http://www.websleuths.com) ]
