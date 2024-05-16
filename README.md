@@ -10,7 +10,7 @@
 [ seattle, washington ]
 
 [ [sdot cameras](https://web.seattle.gov/Travelers/) |
-[sfd real-time](https://web.seattle.gov/sfd/realtime911/getRecsForDatePub.asp?action=Today&incDate=&rad1=des) ]
+[sfd real-time](https://sfdlive.com/) ]
 
 [ true crime ]
 
